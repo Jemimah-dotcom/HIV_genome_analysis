@@ -36,12 +36,12 @@ This project is part of my bioinformatics learning journey, moving from beginner
 ### Mutation Distribution by Nucleotide
 This bar chart shows the frequency of observed mutations across nucleotide bases (A, T, G, C) in the HIV-1 genome.
 
-![Mutations by Nucleotide](plots/mutations_by_nucleotide_bases.png)
+![Mutations by Nucleotide](mutations_by_nucleotide_bases.png)
 
 ### Mutation Distribution Across HIV-1 Genes
 This visualization highlights how mutations are distributed across major HIV-1 genes and intergenic regions.
 
-![Mutations per Gene](plots/mutations_per_gene.png)
+![Mutations per Gene](mutations_per_gene.png)
 ---
 
 ## Tools & Libraries 🛠️
